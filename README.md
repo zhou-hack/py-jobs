@@ -6,3 +6,5 @@ I created this repo in order to upload my works to git from school, and I can do
 ---
 MIT Licensed
 Copyright zhou-hack / zh0u-hack 2023
+
+Anyone can copy it 
