@@ -20,7 +20,3 @@
 
 [her3-Studio-副站](https://zhou-hack-github-io.pages.dev/) *Powered By CloudFlare*
 <br/>
-
-## By The Way
-![KFC](https://www.kfc.com.cn/kfccda/ImgFile/170113/180112_892890.jpg) <br/>
-*谁家好人v50给哥们吃KFC*
